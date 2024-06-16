@@ -1,7 +1,13 @@
 # Curso de React
 
 
-## Lecciones por Rama:
+## Leccion 1:
 
 
-* https://github.com/rojasarmando/curso-react/
+Utilizar React como libreria
+
+
+#### Importamos esta url
+
+``` import ReactDOM from "https://esm.sh/react-dom@18.2.0/client"; ```
+
