@@ -1,16 +1,38 @@
 # Curso de React
 
+## Leccion 2:
 
-## Leccion 1:
+* Utilizar React con JSX
 
-* Utilizar React como libreria
+* Probando JSX:
 
-* el methodo render solo renderiza texto:
+  https://swc.rs/playground
 
-    ``` root.render("Renderizado Basico")  ``` 
+* Instalando un proyecto de react con vite
+
+  https://vitejs.dev/
+
+* Se utilizo iconos
+
+  https://heroicons.com/
+
+* Los componentes de declaran en PascalCase
+
+    - PascalCase
+    - camelCase
+    - snake_case
+    - kebab-case
+
+* Se utilizo unavatar para obtener foto de perfil
+
+  https://unavatar.io/rojasarmando
 
 
-#### Importamos esta url
+* Estilos css en linea 
 
-``` import ReactDOM from "https://esm.sh/react-dom@18.2.0/client"; ```
+```  
+<article style={{ display: "flex" , color:"#fff", alignItems: "center"  }}>  
 
+</article>
+
+```
