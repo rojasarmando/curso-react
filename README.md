@@ -3,8 +3,11 @@
 
 ## Leccion 1:
 
+* Utilizar React como libreria
 
-Utilizar React como libreria
+* el methodo render solo renderiza texto:
+
+    ``` root.render("Renderizado Basico")  ``` 
 
 
 #### Importamos esta url
